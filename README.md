@@ -62,7 +62,7 @@ Raw Data ──► Data Cleaning ──► Feature Engineering ──► Modelli
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/airbnb-hedonic-price-model.git
+git clone https://github.com/<aliscribbles>/airbnb-hedonic-price-model.git
 cd airbnb-hedonic-price-model
 
 # 2. Create a virtual environment (recommended)
@@ -126,3 +126,4 @@ from src.visualization import plot_model_comparison
 The source code in this repository is licensed under the [Apache License 2.0](LICENSE).
 
 > **Please note:** This project is for academic and portfolio purposes. The datasets used in this analysis are sourced from and owned by [Inside Airbnb](http://insideairbnb.com/) and are subject to their specific terms of use.
+
